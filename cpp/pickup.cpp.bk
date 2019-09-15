@@ -1,0 +1,233 @@
+/*
+常量的定义
+  行人速度1m/s
+  开门到进去3s
+  放行李10s  （最简单的模型每个人都放行李）
+  车长4m
+  走到0号位置0m，1号位置6m。。
+
+
+自己的时间线队列类
+  封装优先队列，每次get的时候都检查这一秒是不是
+  找到某个对象下个动作
+
+车和人的队列
+  包含队列，和生成取出程序
+  当一个车走了叫下一个车和下一个人
+
+车道类
+  记录当前的布局，车辆号
+
+上车的规则
+  一排车道
+
+    乘客找最近的车，乘客不等车开过来，到了他就直接走向最近的车
+    乘客一排车道都从右侧上车，因此不会堵住左侧车道
+
+  两排车道
+    上完车了没有阻塞就可以走
+    前面的车都走完了才能进下一批
+格式化log
+
+write 2 lanes first
+*/
+#include<iostream>
+#include<algorithm>
+#include<queue>
+#include<vector>
+#include<string>
+#include<cstdlib>
+#include<cmath>
+#include<time.h>
+
+#define CAR_INCOMING_PER_MINUTE 30
+#define GROUP_INCOMING_PER_MINUTE 20
+#define CAR_LENGTH 4
+#define PARK_SPACE_LENGTH 6
+
+
+using namespace std;
+class Car
+{
+public:
+  int id;
+  static double INCOMING_PER_MINUTE=CAR_INCOMING_PER_MINUTE;
+  int time_gen=-1;
+  int time_out_queue=-1;
+  int time_board=-1;
+  int time_leave=-1;
+  bool empty=true;   //since passenger waling at a car it is not empty
+  bool is_empty()
+  {
+    return empty;
+  }
+};
+
+class Group
+{
+public:
+  int id;
+  static const double INCOMINT_PER_MINUTE=GROUP_INCOMING_PER_MINUTE;
+  static const int PACE=1;   //  m/s
+  static const int LUGGAGE_BASE=6;  //s
+  static const int GET_IN_BASE=3;  //s
+
+  int time_gen=-1;
+  int time_out_queue=-1;
+  int time_boarded=-1;
+  int time_leave=-1;
+
+  int num;   //how many people in the group
+  int luggage;  //how many luggage they carry
+
+  double board_time(int lane,int pos)  //how many seconds it takes for them to board a car walk,place luggage and sit in
+  {
+    return double(pos*6)/PACE + LUGGAGE_BASE + GET_IN_BASE;
+  }
+
+};
+
+
+enum Events {car_leave,};
+class Event
+{
+public:
+  int happen_time;
+  enum Events type;
+  class Car & car;
+  class Group & group;
+
+
+
+  bool operator <(class Event e)const
+  {
+    return happen_time<e.happen_time;
+  }
+  bool operator >(class Event e)const
+  {
+    return happen_time>e.happen_time;
+  }
+
+
+
+};
+
+class Lane
+{
+public:
+  class Car layout[2][3];   //lane and pos
+
+  bool is_congested(int lane,int pos)
+  {
+
+  }
+  int get_empty()
+  {
+
+  }
+  int get_frontest()
+  {
+
+  }
+  int leave(int lane,int pos)
+  {
+
+  }
+  int enter(class Car car,int lane,int pos)
+  {
+
+  }
+};
+
+template<class T>
+class Queue
+{
+public:
+  queue<T>q;
+  int generate(int second)
+  {
+    double margin=T.INCOMING_PER_MINUTE/double(60);
+    srand(int(time(0)));
+    double random=rand()/double(RAND_MAX);
+    if(random<margin)
+    {
+      T object;
+      object.time_gen=second;
+      object.id=;
+      q.push(object);
+    }
+  }
+
+  int top()
+  {
+    return q.top()
+  }
+
+  void pop()
+  {
+    q.pop();
+  }
+  int size()
+  {
+    return q.size();
+  }
+  int empty()
+  {
+    return q.empty();
+  }
+};
+
+
+class Timeline
+{
+public:
+  double now_time=0;
+  priority_queue<class Event>pq;
+  int push(class Event e)
+  {
+
+  }
+  class Event get_next_event(class Event)
+  {
+
+  }
+  class Event pop()
+  {
+    class Event e=pq.top();
+    pq.pop();
+    return e;
+  }
+};
+
+
+
+int main()
+{
+  class Queue<class Car>car_queue;
+  class Queue<class Group>group_queue;
+  class Timeline timeline;
+  while(!car_queue.empty() && !group_queue.empty())
+  {
+    class Event current_e=timeline.pop();
+    switch(current_e.type)
+    {
+      case :
+
+        break;
+      case :
+
+        break;
+      case :
+
+        break;
+      case :
+
+        break;
+      default :
+        cout<<"Unknown Event"<<endl;
+
+    }
+  }
+
+  return 0;
+}

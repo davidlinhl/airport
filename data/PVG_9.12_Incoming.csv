@@ -1,0 +1,453 @@
+7:55 AM,9C6108,Chongqing(CKG),Spring Airlines,A320(B-6932),,Landed7:27 AM
+8:20 AM,9C8942,Jinjiang(JJN),Spring Airlines,320,,Canceled
+8:30 AM,MU5578,Qingdao(TAO),China Eastern Airlines,A321(B-8230),,Landed8:03 AM
+8:45 AM,MU9920,Xi'an(XIY),China Eastern Airlines,A20N(B-305Y),,Landed8:21 AM
+8:50 AM,CZ3568,Shenzhen(SZX),China Southern Airlines,A320(B-2369),,Unknown
+8:50 AM,MF8501,Xiamen(XMN),Xiamen Air,B738(B-1911),,Landed8:22 AM
+8:50 AM,MF8587,Fuzhou(FOC),Xiamen Air,737,,Unknown
+8:50 AM,KN2217,Tianjin(TSN),China United Airlines,B738(B-1470),,Landed8:45 AM
+8:55 AM,HO1288,Guangzhou(CAN),Juneyao Air,B789(B-20D1),,Landed8:54 AM
+8:55 AM,MU5516,Qingdao(TAO),China Eastern Airlines,A321(B-8398),,Landed8:41 AM
+8:55 AM,MU9694,Taiyuan(TYN),China Eastern Airlines,B738(B-1319),,Landed8:31 AM
+9:00 AM,NX106,Macau(MFM),Air Macau,A321(B-MBB),,Landed8:51 AM
+9:00 AM,SC4661,Qingdao(TAO),Shandong Airlines,B738(B-1358),,Landed8:50 AM
+9:05 AM,HO1252,Beijing(PEK),Juneyao Air,A321(B-8458),,Landed9:07 AM
+9:10 AM,SC4861,Yantai(YNT),Shandong Airlines,B738(B-7668),,Landed8:26 AM
+9:10 AM,9C8930,Guangzhou(CAN),Spring Airlines,A320(B-1026),,Landed8:44 AM
+9:20 AM,MU5138,Beijing(PEK),China Eastern Airlines,A333(B-1066),,Landed9:16 AM
+9:25 AM,CZ3533,Guangzhou(CAN),China Southern Airlines,B789(B-1243),,Landed8:50 AM
+9:25 AM,MF8577,Jinjiang(JJN),Xiamen Air,B738(B-5458),,Landed9:13 AM
+9:25 AM,SC4949,Chongqing(CKG),Shandong Airlines,B738(B-5561),,Landed9:12 AM
+9:30 AM,CZ3591,Zhengzhou(CGO),China Southern Airlines,B738(B-5745),,Landed9:10 AM
+9:30 AM,SC4667,Qingdao(TAO),Shandong Airlines,B738(B-5758),,Landed9:05 AM
+9:35 AM,MF8573,Fuzhou(FOC),Xiamen Air,B738(B-5533),,Landed9:07 AM
+9:35 AM,9C8956,Shenzhen(SZX),Spring Airlines,A320(B-6705),,Landed9:18 AM
+9:40 AM,CA1831,Beijing(PEK),Air China,A359(B-307C),,Landed9:23 AM
+9:40 AM,FM9460,Guiyang(KWE),Shanghai Airlines,B738(B-7633),,Landed9:40 AM
+9:50 AM,KN5737,Beijing(NAY),China United Airlines,B738(B-1523),,Landed10:15 AM
+9:55 AM,CA1533,Tianjin(TSN),Air China,B738(B-5495),,Landed10:03 AM
+9:55 AM,FM9168,Hohhot(HET),Shanghai Airlines,B738(B-7637),,Landed9:38 AM
+9:55 AM,MU2501,Wuhan(WUH),China Eastern Airlines,B738(B-7375),,Landed9:48 AM
+10:00 AM,HU7131,Guangzhou(CAN),Hainan Airlines,B789(B-1119),,Landed9:33 AM
+10:00 AM,HU7605,Beijing(PEK),Hainan Airlines,B789(B-7880),,Landed9:41 AM
+10:00 AM,NS3219,Shijiazhuang(SJW),Hebei Airlines,B738(B-5459),,Landed9:46 AM
+10:00 AM,HO1152,Shenzhen(SZX),Juneyao Air,A321(B-8036),,Landed9:58 AM
+10:05 AM,GS7883,Tianjin(TSN),Tianjin Airlines,A320(B-300S),,Landed9:52 AM
+10:10 AM,HO1236,Xi'an(XIY),Juneyao Air,A321(B-8459),,Landed10:05 AM
+10:15 AM,MU5102,Beijing(PEK),China Eastern Airlines,A333(B-6507),,Landed9:47 AM
+10:25 AM,CZ3965,Shenzhen(SZX),China Southern Airlines,A321(B-6629),,Landed10:11 AM
+10:25 AM,CZ3523,Guangzhou(CAN),China Southern Airlines,A359(B-308T),,Landed10:05 AM
+10:30 AM,CZ3907,Beijing(PEK),China Southern Airlines,330,,Canceled
+10:30 AM,HO1094,Kunming(KMG),Juneyao Air,A321(B-1002),,Landed10:22 AM
+10:30 AM,MU2408,Taiyuan(TYN),China Eastern Airlines,B738(B-205X),,Landed10:21 AM
+10:35 AM,CA4543,Chongqing(CKG),Air China (Gold Peony Livery),B738(B-5390),,Landed10:30 AM
+10:35 AM,FM9280,Fuyang(FUG),China Eastern Airlines,B738(B-7861),,Landed10:35 AM
+10:40 AM,CA1501,Beijing(PEK),Air China,B748(B-2487),,Landed10:13 AM
+10:40 AM,MU5156,Beijing(PEK),China Eastern Airlines,A333(B-1073),,Landed10:27 AM
+10:40 AM,MU5276,Yinchuan(INC),China Eastern Airlines,A321(B-1812),,Landed10:33 AM
+10:45 AM,CA4515,Chengdu(CTU),Air China,A333(B-6523),,Landed10:43 AM
+10:45 AM,MU5341,Yantai(YNT),China Eastern Airlines,A320(B-6951),,Landed10:43 AM
+10:45 AM,MU5304,Guangzhou(CAN),China Eastern Airlines,B738(B-1235),,Landed10:27 AM
+10:50 AM,MF8511,Xiamen(XMN),Xiamen Air (SkyTeam Livery),B738(B-5159),,Landed10:38 AM
+10:50 AM,MF8569,Changsha(CSX),Xiamen Air,737,,Unknown
+10:50 AM,9C8822,Qingdao(TAO),Spring Airlines,A320(B-8347),,Landed10:23 AM
+10:55 AM,CZ3261,Nanning(NNG),China Southern Airlines,B738(B-5597),,Landed11:18 AM
+10:55 AM,MU2220,Chengdu(CTU),China Eastern Airlines,A332(B-5952),,Landed10:51 AM
+11:00 AM,HU7607,Beijing(PEK),Hainan Airlines,A333(B-5950),,Landed11:07 AM
+11:00 AM,FM9206,Fuzhou(FOC),Shanghai Airlines,B737(B-5808),,Landed10:49 AM
+11:15 AM,MU2151,Xi'an(XIY),China Eastern Airlines,A333(B-6095),,Landed10:58 AM
+11:15 AM,MU5104,Beijing(PEK),China Eastern Airlines,A333(B-300P),,Landed10:56 AM
+11:20 AM,CA1838,Guangzhou(CAN),Air China,A333(B-5948),,Landed10:59 AM
+11:20 AM,MU5801,Kunming(KMG),China Eastern Airlines,B789(B-209N),,Landed10:47 AM
+11:25 AM,CZ3553,Shenzhen(SZX),China Southern Airlines,A333(B-6502),,Landed11:26 AM
+11:25 AM,JL81,Tokyo(HND),Japan Airlines,B772(JA703J),,Landed11:14 AM
+11:25 AM,FM9416,Lianyungang(LYG),Shanghai Airlines,B738(B-5833),,Landed11:10 AM
+11:30 AM,CZ3545,Guangzhou(CAN),China Southern Airlines,B77W(B-20C5),,Landed11:10 AM
+11:35 AM,FM9074,Yantai(YNT),Shanghai Airlines,B738(B-5691),,Landed11:18 AM
+11:35 AM,MU5572,Jinan(TNA),China Eastern Airlines (Duffy Friendship Express),B738(B-1316),,Landed11:28 AM
+11:35 AM,9C8910,Jinjiang(JJN),Spring Airlines,A20N(B-308V),,Landed11:37 AM
+11:40 AM,CA1519,Beijing(PEK),Air China,B77W(B-1428),,Landed11:25 AM
+11:40 AM,MU5334,Shenzhen(SZX),China Eastern Airlines,A321(B-2419),,Landed12:14 PM
+11:40 AM,9C8816,Xiamen(XMN),Spring Airlines,A320(B-8591),,Landed11:27 AM
+11:45 AM,EU6671,Yueyang(YYA),Chengdu Airlines,AJ27(B-3328),,Unknown
+11:45 AM,MU5406,Chengdu(CTU),China Eastern Airlines,B738(B-5517),,Landed11:37 AM
+11:50 AM,FM9228,Changsha(CSX),Shanghai Airlines,B738(B-5705),,Landed12:18 PM
+11:50 AM,MU5314,Guangzhou(CAN),China United Airlines,B738(B-5839),,Landed11:49 AM
+11:50 AM,9C8958,Jieyang(SWA),Spring Airlines,A320(B-6708),,Landed11:55 AM
+11:55 AM,MF8541,Fuzhou(FOC),Xiamen Air,B738(B-5752),,Landed12:06 PM
+11:55 AM,MU5803,Kunming(KMG),China Eastern Airlines,B738(B-1253),,Landed12:45 PM
+11:55 AM,MU2507,Wuhan(WUH),China Eastern Airlines,B738(B-1513),,Landed11:34 AM
+12:00 PM,FM9246,Nanchang(KHN),Shanghai Airlines,B738(B-7863),,Landed11:54 AM
+12:00 PM,HO1124,Changsha(CSX),Juneyao Air (All Red Livery),A321(B-1808),,Landed12:41 PM
+12:05 PM,KA838,Hong Kong(HKG),Cathay Dragon,A333(B-HLI),,Landed11:47 AM
+12:10 PM,FM9308,Guangzhou(CAN),Shanghai Airlines,B738(B-1265),,Landed12:24 PM
+12:15 PM,MU2153,Xi'an(XIY),China Eastern Airlines,A320(B-2372),,Landed12:00 PM
+12:15 PM,MU5106,Beijing(PEK),China Eastern Airlines,A333(B-300Q),,Landed12:04 PM
+12:15 PM,NH969,Tokyo(HND),All Nippon Airways,B788(JA834A),,Landed11:53 AM
+12:20 PM,CZ3531,Guangzhou(CAN),China Southern Airlines,B77W(B-2099),,Landed12:28 PM
+12:25 PM,HO1132,Taiyuan(TYN),Juneyao Air,A320(B-6670),,Landed12:24 PM
+12:25 PM,SC8743,Qingdao(TAO),Shandong Airlines,B738(B-5348),,Landed11:57 AM
+12:25 PM,9C8918,Shenzhen(SZX),Spring Airlines,A320(B-6646),,Landed12:12 PM
+12:30 PM,MU9719,Lijiang(LJG),China Eastern Airlines (Yunnan Peacock Livery),B737(B-6141),,Landed12:09 PM
+12:35 PM,MU2433,Luoyang(LYA),China Eastern Airlines,A321(B-8979),,Landed3:02 PM
+12:40 PM,CA1531,Beijing(PEK),Air China,B77W(B-2086),,Landed12:22 PM
+12:40 PM,MU5336,Shenzhen(SZX),China Eastern Airlines,A332(B-5926),,Landed12:50 PM
+12:40 PM,MU5404,Chengdu(CTU),China Eastern Airlines,A321(B-8396),,Landed12:49 PM
+12:45 PM,MF8567,Xiamen(XMN),Xiamen Air,B738(B-5751),,Landed1:45 PM
+12:45 PM,MU5396,Zhengzhou(CGO),China Eastern Airlines,A320(B-6713),,Landed12:38 PM
+12:45 PM,9C8820,Zhuhai(ZUH),Spring Airlines,A320(B-1670),,Landed12:47 PM
+12:50 PM,CZ6995,Urumqi(URC),China Southern Airlines,B738(B-5759),,Landed1:05 PM
+12:50 PM,HO1086,Zunyi(WMT),Juneyao Air,A320(B-6640),,Landed12:45 PM
+12:55 PM,NX110,Macau(MFM),Air Macau (Macau Welcomes You Livery),A321(B-MBM),,Landed1:02 PM
+12:55 PM,FM9264,Xiamen(XMN),Shanghai Airlines,B738(B-1332),,Landed1:05 PM
+12:55 PM,MU512,Seoul(GMP),China Eastern Airlines,A333(B-6083),,Landed12:37 PM
+1:00 PM,MU5364,Changsha(CSX),China Eastern Airlines,A20N(B-303F),,Landed1:58 PM
+1:00 PM,9C8608,Zhangjiakou(ZQZ),Spring Airlines,A320(B-6751),,Landed2:02 PM
+1:05 PM,MU5302,Guangzhou(CAN),China Eastern Airlines,B738(B-1486),,Landed1:09 PM
+1:05 PM,9C8836,Guangzhou(CAN),Spring Airlines,A320(B-8247),,Landed1:15 PM
+1:10 PM,TV9865,Chengdu(CTU),Tibet Airlines,A332(B-1047),,Landed1:07 PM
+1:10 PM,FM9164,Taiyuan(TYN),China Eastern Airlines,B738(B-1317),,Landed1:01 PM
+1:15 PM,MU2155,Xi'an(XIY),China Eastern Airlines,A321(B-8163),,Landed1:22 PM
+1:20 PM,8L9887,Yichun(YIC),Lucky Air,A20N(B-1361),,Landed12:58 PM
+1:20 PM,MU5108,Beijing(PEK),China Eastern Airlines,A333(B-304A),,Landed1:05 PM
+1:20 PM,HO1112,Shenzhen(SZX),Juneyao Air,B789(B-1115),,Landed1:35 PM
+1:25 PM,CZ3537,Guangzhou(CAN),China Southern Airlines,B77W(B-7183),,Landed1:53 PM
+1:25 PM,SC4663,Qingdao(TAO),Shandong Airlines,B738(B-1273),,Landed12:45 PM
+1:30 PM,HO1158,Zhuhai(ZUH),Juneyao Air,A321(B-8587),,Landed1:39 PM
+1:30 PM,MU5518,Qingdao(TAO),China Eastern Airlines,A321(B-8648),,Landed1:55 PM
+1:30 PM,SC4863,Yantai(YNT),Shandong Airlines (Jinan - City of Springs Livery),B738(B-5451),,Landed1:12 PM
+1:35 PM,FM9464,Guiyang(KWE),Shanghai Airlines,B738(B-5692),,Landed1:32 PM
+1:40 PM,CA1557,Beijing(PEK),Air China,B77W(B-2036),,Landed1:16 PM
+1:40 PM,FM9148,Tianjin(TSN),China Eastern Airlines,B738(B-208Z),,Landed2:14 PM
+1:45 PM,MU5338,Shenzhen(SZX),China Eastern Airlines,A333(B-5969),,Landed2:11 PM
+1:45 PM,HO1218,Xi'an(XIY),Juneyao Air,A321(B-8537),,Landed1:31 PM
+1:50 PM,9C8898,Chongqing(CKG),Spring Airlines,A320(B-8012),,Landed1:38 PM
+1:55 PM,MF8378,Shenzhen(SZX),Xiamen Air,B738(B-5488),,Landed2:07 PM
+1:55 PM,FM9220,Urumqi(URC),Shanghai Airlines,B738(B-1453),,Landed2:20 PM
+1:55 PM,HO1208,Guiyang(KWE),Juneyao Air,A321(B-8315),,Landed1:56 PM
+2:00 PM,FM9304,Guangzhou(CAN),Shanghai Airlines,B738(B-6698),,Landed2:29 PM
+2:00 PM,ZH9507,Shenzhen(SZX),Shenzhen Airlines,A320(B-6721),,Landed3:04 PM
+2:05 PM,MF8581,Chongqing(CKG),Xiamen Air,B738(B-1709),,Landed2:24 PM
+2:05 PM,CZ6981,Urumqi(URC),China Southern Airlines,B788(B-2726),,Landed2:10 PM
+2:10 PM,MU5805,Kunming(KMG),China Eastern Airlines (Yunnan Peacock Livery),B738(B-1702),,Landed3:25 PM
+2:15 PM,CI201,Taipei(TSA),China Airlines,A333(B-18309),,Landed1:52 PM
+2:15 PM,FM9340,Nanning(NNG),Shanghai Airlines,B738(B-7862),,Landed2:28 PM
+2:15 PM,MU2157,Xi'an(XIY),China Eastern Airlines,A321(B-8562),,Landed1:57 PM
+2:15 PM,MU2386,Xi'an(XIY),China Eastern Airlines,320,,Unknown
+2:20 PM,MU5110,Beijing(PEK),China Eastern Airlines(Disneyland Shanghai Livery),A333(B-5976),,Landed2:05 PM
+2:20 PM,FM9538,Sanya(SYX),China Eastern Airlines (Skyteam Livery),A321(B-8976),,Landed2:17 PM
+2:25 PM,CZ3539,Guangzhou(CAN),China Southern Airlines,B77W(B-7185),,Landed2:54 PM
+2:25 PM,FM9422,Chongqing(CKG),Shanghai Airlines,B738(B-1740),,Landed2:40 PM
+2:30 PM,FM9514,Zhuhai(ZUH),Shanghai Airlines,B738(B-5393),,Landed3:08 PM
+2:35 PM,CZ3557,Shenzhen(SZX),China Southern Airlines,A320(B-9917),,Landed3:38 PM
+2:40 PM,MU722,Hong Kong(HKG),China Eastern Airlines,A321(B-2420),,Landed2:21 PM
+2:45 PM,FM9332,Shenzhen(SZX),Shanghai Airlines,A333(B-6097),,Landed3:18 PM
+2:45 PM,MU5540,Anqing(AQG),China Eastern Airlines,A320(B-9973),,Landed2:50 PM
+2:50 PM,CZ6989,Urumqi(URC),China Southern Airlines,B738(B-1365),,Landed3:29 PM
+2:50 PM,MF8521,Xiamen(XMN),Xiamen Air,B738(B-5301),,Landed2:22 PM
+2:50 PM,MU5666,Xiamen(XMN),China Eastern Airlines,A321(B-6925),,Landed2:57 PM
+2:55 PM,FM9310,Guangzhou(CAN),China Eastern Airlines,A333(B-6506),,Landed3:46 PM
+2:55 PM,MU5204,Liuzhou(LZH),China Eastern Airlines,A320(B-6399),,Landed3:36 PM
+3:00 PM,FM9214,Lanzhou(LHW),Shanghai Airlines,B738(B-1949),,Landed2:51 PM
+3:00 PM,MU2521,Wuhan(WUH),"China Eastern Airlines (Tujia, Enshi Livery)",B738(B-5475),,Landed2:29 PM
+3:05 PM,HO1120,Chengdu(CTU),Juneyao Air (Chinese Peony Livery),B789(B-209R),,Landed3:04 PM
+3:10 PM,MU5408,Chengdu(CTU),China Eastern Airlines,A332(B-5936),,Landed3:12 PM
+3:10 PM,MU9980,Qingdao(TAO),China Eastern Airlines,A321(B-8651),,Landed2:59 PM
+3:15 PM,MU5112,Beijing(PEK),China Eastern Airlines,B77W(B-7868),,Landed2:57 PM
+3:15 PM,MU5807,Kunming(KMG),China Eastern Airlines,A332(B-5920),,Landed4:20 PM
+3:15 PM,MU5892,Kunming(KMG),China Eastern Airlines,737,,Unknown
+3:15 PM,MU5932,Kunming(KMG),China Eastern Airlines,737,,Unknown
+3:15 PM,SC4669,Qingdao(TAO),Shandong Airlines,B738(B-5758),,Landed3:14 PM
+3:20 PM,FM9208,Xi'an(XIY),Shanghai Airlines,B738(B-5461),,Landed3:09 PM
+3:20 PM,MF8585,Fuzhou(FOC),Xiamen Air,B738(B-5533),,Landed3:15 PM
+3:20 PM,ZH9511,Shenzhen(SZX),Shenzhen Airlines,A333(B-1072),,Landed4:04 PM
+3:25 PM,CZ3525,Guangzhou(CAN),China Southern Airlines,B77W(B-2048),,Landed3:44 PM
+3:25 PM,CZ3561,Shenzhen(SZX),China Southern Airlines,A333(B-1063),,Landed4:17 PM
+3:30 PM,FM9116,Tianjin(TSN),Shanghai Airlines,B738(B-1967),,Landed4:25 PM
+3:30 PM,MF8178,Beijing(PEK),Xiamen Air,B738(B-5847),,Landed2:56 PM
+3:30 PM,TV9881,Chengdu(CTU),Tibet Airlines,A332(B-1046),,Landed3:24 PM
+3:40 PM,CA1517,Beijing(PEK),Air China,A333(B-5916),,Landed3:42 PM
+3:40 PM,MU5154,Beijing(PEK),Shanghai Airlines,B738(B-5610),,Landed3:23 PM
+3:45 PM,HO1200,Taiyuan(TYN),Juneyao Air,A321(B-8955),,Landed3:36 PM
+3:50 PM,FM9314,Guangzhou(CAN),Shanghai Airlines,B738(B-5523),,Landed3:40 PM
+3:50 PM,MU5344,Shenzhen(SZX),China Eastern Airlines,A333(B-1041),,Landed3:56 PM
+3:50 PM,9C8848,Lanzhou(LHW),Spring Airlines,A320(B-1657),,Landed3:48 PM
+3:55 PM,FM816,Tokyo(HND),Shanghai Airlines,A333(B-6096),,Landed3:16 PM
+3:55 PM,FM9392,Changsha(CSX),Shanghai Airlines,B738(B-7633),,Landed3:43 PM
+4:00 PM,MU5692,Yinchuan(INC),China Eastern Airlines,A321(B-6886),,Landed4:32 PM
+4:00 PM,SC4849,Yantai(YNT),Shandong Airlines,B738(B-7976),,Landed3:57 PM
+4:00 PM,9C8888,Chengdu(CTU),Spring Airlines,A320(B-6932),,Landed4:02 PM
+4:05 PM,MU5018,Hong Kong(HKG),China Eastern Airlines,A333(B-5953),,Landed4:23 PM
+4:10 PM,BR772,Taipei(TSA),EVA Air,A333(B-16336),,Landed4:12 PM
+4:10 PM,FM818,Macau(MFM),Shanghai Airlines,B738(B-5550),,Landed4:07 PM
+4:10 PM,MU5428,Chongqing(CKG),China Eastern Airlines,B738(B-1535),,Landed3:58 PM
+4:15 PM,CZ6973,Urumqi(URC),China Southern Airlines,B738(B-1917),,Landed4:37 PM
+4:15 PM,MU5809,Kunming(KMG),China Eastern Airlines (Yunnan Peacock Livery),B738(B-5683),,Landed4:40 PM
+4:15 PM,MU5946,Kunming(KMG),China Eastern Airlines,737,,Unknown
+4:20 PM,MU2159,Xi'an(XIY),China Eastern Airlines,A321(B-6643),,Landed3:58 PM
+4:20 PM,MU2404,Taiyuan(TYN),China Eastern Airlines,B738(B-206S),,Landed4:09 PM
+4:20 PM,MU5114,Beijing(PEK),China Eastern Airlines,A333(B-8971),,Landed4:07 PM
+4:25 PM,MU5386,Guangzhou(CAN),China Eastern Airlines,B738(B-1319),,Landed4:03 PM
+4:25 PM,SC4665,Qingdao(TAO),Shandong Airlines,B738(B-6987),,Landed3:53 PM
+4:30 PM,MF8372,Shenzhen(SZX),Xiamen Air,B738(B-5458),,Landed4:20 PM
+4:30 PM,9C8882,Shenzhen(SZX),Spring Airlines,A320(B-1026),,Landed4:13 PM
+4:35 PM,9C8828,Huaihua(HJJ),Spring Airlines,A320(B-6562),,Landed5:01 PM
+4:40 PM,CA1521,Beijing(PEK),Air China,B77W(B-2087),,Landed4:40 PM
+4:45 PM,CA198,Taipei(TSA),Air China,A333(B-6523),,Landed4:49 PM
+4:45 PM,MU538,Tokyo(HND),China Eastern Airines,A333(B-303D),,Landed4:25 PM
+4:45 PM,9C8838,Xiamen(XMN),Spring Airlines,A320(B-8347),,Landed4:26 PM
+4:50 PM,HO1098,Chengdu(CTU),Juneyao Air,B789(B-20D1),,Landed4:43 PM
+4:50 PM,MU5520,Qingdao(TAO),China Eastern Airlines,A332(B-6537),,Landed4:32 PM
+4:55 PM,HO1210,Guiyang(KWE),Juneyao Air,A321(B-8036),,Landed4:47 PM
+4:55 PM,MU5410,Chengdu(CTU),China Eastern Airlines,B738(B-1321),,Landed4:53 PM
+5:00 PM,MF8509,Xiamen(XMN),Xiamen Air (SkyTeam Livery),B738(B-5159),,Landed4:56 PM
+5:00 PM,MU5346,Shenzhen(SZX),China Eastern Airlines,A321(B-6330),,Landed4:39 PM
+5:00 PM,OZ3615,Seoul(GMP),Asiana Airlines,A333(HL7794),,Landed4:43 PM
+5:05 PM,CA1523,Tianjin(TSN),Air China,B738(B-7896),,Landed6:07 PM
+5:05 PM,KE815,Seoul(GMP),Korean Air,B77W(HL8216),,Landed4:47 PM
+5:05 PM,MU5306,Guangzhou(CAN),Shanghai Airlines,B738(B-1335),,Landed4:34 PM
+5:10 PM,HU7609,Beijing(PEK),Hainan Airlines,A332(B-5955),,Landed5:15 PM
+5:10 PM,FM9452,Kunming(KMG),Shanghai Airlines,B738(B-206W),,Landed5:09 PM
+5:10 PM,HO1096,Bijie(BFJ),Juneyao Air,A320(B-6861),,Landed5:15 PM
+5:15 PM,CZ3831,Shenzhen(SZX),China Southern Airlines,A321(B-6912),,Landed5:01 PM
+5:15 PM,HO1178,Sanya(SYX),Juneyao Air,A321(B-8458),,Landed5:10 PM
+5:15 PM,ZH5082,Sanya(SYX),Shenzhen Airlines,A321(B-8458),,Landed5:10 PM
+5:15 PM,SC4673,Qingdao(TAO),Shandong Airlines,B738(B-1510),,Landed5:06 PM
+5:15 PM,CA4673,Qingdao(TAO),Air China,B738(B-1510),,Landed5:06 PM
+5:20 PM,FM9358,Jieyang(SWA),Shanghai Airlines,B738(B-5833),,Landed5:20 PM
+5:20 PM,FM9536,Xiamen(XMN),Shanghai Airlines,B737(B-5801),,Landed4:52 PM
+5:20 PM,MU5116,Beijing(PEK),China Eastern Airlines,A333(B-1066),,Landed4:58 PM
+5:25 PM,CZ3571,Guangzhou(CAN),China Southern Airlines,B77W(B-20AC),,Landed5:06 PM
+5:25 PM,MU2286,Weihai(WEH),China Eastern Airlines,B738(B-1318),,Landed5:38 PM
+5:30 PM,MU5460,Hohhot(HET),China Eastern Airlines,A20N(B-300R),,Landed5:52 PM
+5:35 PM,MU5648,Xiamen(XMN),China Eastern Airlines,A321(B-2419),,Landed5:31 PM
+5:40 PM,CA1515,Beijing(PEK),Air China,B77W(B-2088),,Landed5:31 PM
+5:40 PM,KN5955,Beijing(NAY),China United Airlines,B738(B-1427),,Landed5:29 PM
+5:45 PM,MU5308,Guangzhou(CAN),China Eastern Airlines,A333(B-6507),,Landed5:23 PM
+5:50 PM,MU5560,Nanchang(KHN),China Eastern Airlines,A320(B-1865),,Landed5:33 PM
+5:50 PM,FM9232,Qingdao(TAO),Shanghai Airlines,B738(B-5316),,Landed5:29 PM
+5:55 PM,MU5352,Shenzhen(SZX),China Eastern Airlines,A321(B-8230),,Landed5:21 PM
+6:00 PM,HX238,Hong Kong(HKG),Hong Kong Airlines,A333(B-LNU),,Landed5:45 PM
+6:05 PM,CZ6583,Shenzhen(SZX),China Southern Airlines,A321(B-1846),,Landed5:42 PM
+6:05 PM,9C8904,Shijiazhuang(SJW),Spring Airlines,A320(B-8817),,Landed6:09 PM
+6:10 PM,MU5390,Luoyang(LYA),China Eastern Airlines,A321(B-8568),,Landed5:52 PM
+6:10 PM,MU5412,Chengdu(CTU),China Eastern Airlines,A320(B-6558),,Landed6:19 PM
+6:15 PM,MU2161,Xi'an(XIY),China Eastern Airlines,A321(B-1858),,Landed7:06 PM
+6:15 PM,MU2505,Wuhan(WUH),China Eastern Airlines,B738(B-5517),,Landed5:42 PM
+6:15 PM,9C8808,Xiamen(XMN),Spring Airlines,A320(B-6646),,Landed5:47 PM
+6:20 PM,MF8505,Xiamen(XMN),Xiamen Air,B738(B-5752),,Landed5:57 PM
+6:20 PM,CZ3551,Shenzhen(SZX),China Southern Airlines,A320(B-6911),,Landed6:08 PM
+6:20 PM,MU5118,Beijing(PEK),China Eastern Airlines,A333(B-1073),,Landed6:23 PM
+6:25 PM,CZ3503,Guangzhou(CAN),China Southern Airlines,A359(B-308T),,Landed6:01 PM
+6:25 PM,ZH9515,Shenzhen(SZX),Shenzhen Airlines,A333(B-302E),,Landed6:16 PM
+6:30 PM,KN2317,Shijiazhuang(SJW),China United Airlines,B738(B-1147),,Landed6:24 PM
+6:30 PM,9C8856,Guangzhou(CAN),Spring Airlines,A320(B-8591),,Landed6:10 PM
+6:35 PM,CA1527,Tianjin(TSN),Air China,B738(B-1219),,Landed6:14 PM
+6:40 PM,CA1549,Beijing(PEK),Air China,B77W(B-1428),,Landed6:38 PM
+6:40 PM,CA1829,Guangzhou(CAN),Air China,A333(B-5948),,Landed6:28 PM
+6:45 PM,FM9458,Guiyang(KWE),China Eastern Airlines,B738(B-7861),,Landed6:39 PM
+6:45 PM,MU5312,Guangzhou(CAN),China Eastern Airlines,A333(B-6095),,Landed6:30 PM
+6:50 PM,MU2509,Wuhan(WUH),China Eastern Airlines,B738(B-1449),,Landed6:20 PM
+6:50 PM,MU5272,Changsha(CSX),China Eastern Airlines,A321(B-8396),,Landed6:51 PM
+6:55 PM,MU5811,Kunming(KMG),China Eastern Airlines,B789(B-206K),,Landed7:01 PM
+7:00 PM,MF8551,Tianjin(TSN),Xiamen Air,B738(B-6483),,Landed7:22 PM
+7:00 PM,MU5350,Shenzhen(SZX),China Eastern Airlines,A320(B-6951),,Landed6:56 PM
+7:05 PM,CZ3625,Shenzhen(SZX),China Southern Airlines,A21N(B-303K),,Landed6:47 PM
+7:05 PM,FM9298,Jieyang(SWA),China Eastern Airlines,B738(B-20AD),,Landed8:29 PM
+7:05 PM,MU5098,Taipei(TSA),China Eastern Airlines,A333(B-6083),,Landed6:39 PM
+7:05 PM,SC1167,Jinan(TNA),Shandong Airlines,B738(B-1272),,Landed6:53 PM
+7:10 PM,MU2165,Xi'an(XIY),China Eastern Airlines,B738(B-1235),,Landed7:16 PM
+7:10 PM,HO1144,Guiyang(KWE),Juneyao Air,A320(B-6921),,Landed6:54 PM
+7:10 PM,MU5524,Qingdao(TAO),China Eastern Airlines,A321(B-8648),,Landed7:00 PM
+7:15 PM,FM9064,Tianjin(TSN),Shanghai Airlines,B737(B-5808),,Landed7:50 PM
+7:15 PM,MU5120,Beijing(PEK),China Eastern Airlines,A333(B-6085),,Landed6:56 PM
+7:20 PM,MU5432,Chongqing(CKG),China United Airlines,B738(B-5839),,Landed7:34 PM
+7:20 PM,FM9330,Zhengzhou(CGO),China Eastern Airlines,B738(B-1317),,Landed7:57 PM
+7:25 PM,CZ3581,Guangzhou(CAN),China Southern Airlines,B77W(B-2007),,Landed7:02 PM
+7:25 PM,MU2406,Taiyuan(TYN),China Eastern Airlines,A320(B-6713),,Landed7:26 PM
+7:30 PM,CA4501,Chengdu(CTU),Air China,A321(B-6701),,Landed7:18 PM
+7:35 PM,CZ3587,Shenzhen(SZX),China Southern Airlines,A333(B-6502),,Landed7:11 PM
+7:35 PM,FM9270,Ji'an(JGS),Shanghai Airlines,B738(B-5549),,Landed6:57 PM
+7:40 PM,CA1855,Beijing(PEK),Air China,A359(B-1080),,Landed7:34 PM
+7:40 PM,HU7601,Beijing(PEK),Hainan Airlines,A333(B-6539),,Landed7:27 PM
+7:45 PM,HO1130,Sanya(SYX),Juneyao Air,A321(B-9957),,Landed7:39 PM
+7:45 PM,9C8948,Xi'an(XIY),Spring Airlines,A320(B-1670),,Landed7:17 PM
+7:50 PM,MF8535,Xiamen(XMN),Xiamen Air,B738(B-5303),,Landed7:37 PM
+7:50 PM,MU5536,Wuyishan(WUS),China Eastern Airlines,A320(B-6373),,Landed7:59 PM
+7:55 PM,FM9516,Wenzhou(WNZ),Shanghai Airlines,B738(B-5576),,Landed7:41 PM
+8:00 PM,FM9334,Shenzhen(SZX),Shanghai Airlines,B738(B-5705),,Landed7:36 PM
+8:00 PM,FM9400,Changsha(CSX),Shanghai Airlines,B738(B-5396),,Landed7:43 PM
+8:00 PM,HO1160,Zhuhai(ZUH),Juneyao Air,A321(B-8587),,Landed7:47 PM
+8:05 PM,CA4541,Chongqing(CKG),Air China (Yellow Peony Livery),B738(B-5198),,Landed7:52 PM
+8:05 PM,FM9318,Guangzhou(CAN),Shanghai Airlines,B738(B-1151),,Landed7:29 PM
+8:05 PM,MF8515,Jinjiang(JJN),Xiamen Air,737,,Unknown
+8:05 PM,MF8547,Fuzhou(FOC),Hebei Airlines,B738(B-5456),,Landed8:03 PM
+8:10 PM,FM9376,Zhengzhou(CGO),China Eastern Airlines (Skyteam Livery),A321(B-8976),,Landed8:08 PM
+8:10 PM,FM9454,Kunming(KMG),Shanghai Airlines,B737(B-5826),,Landed8:35 PM
+8:10 PM,MU2513,Wuhan(WUH),China Eastern Airlines,B738(B-5473),,Landed8:04 PM
+8:10 PM,CZ9336,Wuhan(WUH),China Southern Airlines,B738(B-5473),,Landed8:04 PM
+8:10 PM,HO3626,Wuhan(WUH),Juneyao Airlines,B738(B-5473),,Landed8:04 PM
+8:15 PM,MU2180,Yantai(YNT),China Eastern Airlines,A320(B-1863),,Landed8:08 PM
+8:15 PM,MU5122,Beijing(PEK),China Eastern Airlines,A333(B-300Q),,Landed8:01 PM
+8:15 PM,MU5510,Yantai(YNT),China Eastern Airlines,A320(B-8975),,Landed7:58 PM
+8:20 PM,CZ8244,Chengdu(CTU),China Southern Airlines,B77W(B-20C5),,Landed8:22 PM
+8:20 PM,HO1202,Shenzhen(SZX),Juneyao Air,B789(B-1115),,Landed8:17 PM
+8:20 PM,3U2256,Shenzhen(SZX),Sichuan Airlines,B789(B-1115),,Landed8:17 PM
+8:20 PM,CA3220,Shenzhen(SZX),Air China,B789(B-1115),,Landed8:17 PM
+8:20 PM,MU4704,Shenzhen(SZX),China Eastern Airlines,B789(B-1115),,Landed8:17 PM
+8:20 PM,ZH5058,Shenzhen(SZX),Shenzhen Airlines,B789(B-1115),,Landed8:17 PM
+8:20 PM,9C8776,Shenzhen(SZX),Spring Airlines,A320(B-8247),,Landed7:48 PM
+8:25 PM,FM9162,Shiyan(WDS),Shanghai Airlines,B738(B-7862),,Landed8:08 PM
+8:25 PM,MU9162,Shiyan(WDS),China Eastern Airlines,B738(B-7862),,Landed8:08 PM
+8:30 PM,SC4731,Chongqing(CKG),Shandong Airlines,B738(B-5649),,Landed8:24 PM
+8:35 PM,MU5556,Qingdao(TAO),China Eastern Airlines,A320(B-2338),,Landed8:14 PM
+8:35 PM,HO3658,Qingdao(TAO),Juneyao Airlines,A320(B-2338),,Landed8:14 PM
+8:40 PM,CA1885,Beijing(PEK),Air China,B77W(B-2036),,Landed8:17 PM
+8:40 PM,ZH1885,Beijing(PEK),Shenzhen Airlines,B77W(B-2036),,Landed8:17 PM
+8:40 PM,MU2127,Lanzhou(LHW),China Eastern Airlines,A320(B-2209),,Landed8:31 PM
+8:40 PM,CZ9260,Lanzhou(LHW),China Southern Airlines,A320(B-2209),,Landed8:31 PM
+8:45 PM,MU5354,Shenzhen(SZX),China Eastern Airlines,A332(B-5926),,Landed8:42 PM
+8:45 PM,CZ9317,Shenzhen(SZX),China Southern Airlines,A332(B-5926),,Landed8:42 PM
+8:45 PM,HO1216,Xi'an(XIY),Juneyao Air,A321(B-8537),,Landed8:35 PM
+8:45 PM,3U2246,Xi'an(XIY),Sichuan Airlines,A321(B-8537),,Landed8:35 PM
+8:45 PM,MU4748,Xi'an(XIY),China Eastern Airlines,A321(B-8537),,Landed8:35 PM
+8:45 PM,ZH5060,Xi'an(XIY),Shenzhen Airlines,A321(B-8537),,Landed8:35 PM
+8:50 PM,CZ3575,Shenzhen(SZX),China Southern Airlines,A333(B-6501),,Landed8:47 PM
+8:50 PM,MF1417,Shenzhen(SZX),Xiamen Air,A333(B-6501),,Landed8:47 PM
+8:50 PM,FM9108,Beijing(PEK),Shanghai Airlines,B738(B-1265),,Landed8:37 PM
+8:50 PM,MU9108,Beijing(PEK),China Eastern Airlines,B738(B-1265),,Landed8:37 PM
+8:50 PM,9C8824,Zunyi(ZYI),Spring Airlines,A320(B-6705),,Landed9:12 PM
+9:00 PM,MU5310,Guangzhou(CAN),China Eastern Airlines,B738(B-1486),,Landed8:26 PM
+9:00 PM,3U5074,Guangzhou(CAN),Sichuan Airlines,B738(B-1486),,Landed8:26 PM
+9:00 PM,CZ9219,Guangzhou(CAN),China Southern Airlines,B738(B-1486),,Landed8:26 PM
+9:00 PM,HO3686,Guangzhou(CAN),Juneyao Airlines,B738(B-1486),,Landed8:26 PM
+9:00 PM,NX138,Macau(MFM),Air Macau,A321(B-MAQ),,Landed9:07 PM
+9:00 PM,CA5428,Macau(MFM),Air China,A321(B-MAQ),,Landed9:07 PM
+9:00 PM,ZH3376,Macau(MFM),Shenzhen Airlines,A321(B-MAQ),,Landed9:07 PM
+9:05 PM,FM824,Seoul(GMP),Shanghai Airlines,A333(B-6097),,Landed8:56 PM
+9:05 PM,KE5899,Seoul(GMP),Korean Air,A333(B-6097),,Landed8:56 PM
+9:05 PM,MU9824,Seoul(GMP),China Eastern Airlines,A333(B-6097),,Landed8:56 PM
+9:10 PM,HO1256,Urumqi(URC),Juneyao Air,A320(B-8408),,Landed8:54 PM
+9:10 PM,3U2252,Urumqi(URC),Sichuan Airlines,A320(B-8408),,Landed8:54 PM
+9:10 PM,MU4754,Urumqi(URC),China Eastern Airlines,A320(B-8408),,Landed8:54 PM
+9:10 PM,MU2410,Taiyuan(TYN),China Eastern Airlines,B738(B-205X),,Landed9:00 PM
+9:15 PM,MU5124,Beijing(PEK),China Eastern Airlines,A333(B-304A),,Landed8:49 PM
+9:15 PM,FM9574,Yantai(YNT),Shanghai Airlines,B738(B-5832),,Landed9:03 PM
+9:15 PM,MU9574,Yantai(YNT),China Eastern Airlines,B738(B-5832),,Landed9:03 PM
+9:20 PM,MF8545,Xiamen(XMN),Xiamen Air,B738(B-5847),,Landed9:00 PM
+9:20 PM,CZ5840,Xiamen(XMN),China Southern Airlines,B738(B-5847),,Landed9:00 PM
+9:20 PM,MU8589,Xiamen(XMN),China Eastern Airlines,B738(B-5847),,Landed9:00 PM
+9:20 PM,NS8545,Xiamen(XMN),Hebei Airlines,B738(B-5847),,Landed9:00 PM
+9:20 PM,FM846,Hong Kong(HKG),Shanghai Airlines,B738(B-6698),,Landed9:21 PM
+9:20 PM,MU9846,Hong Kong(HKG),China Eastern Airlines,B738(B-6698),,Landed9:21 PM
+9:20 PM,FM9210,Nanning(NNG),China Eastern Airlines,B738(B-208Z),,Landed9:35 PM
+9:20 PM,MU9210,Nanning(NNG),China Eastern Airlines,B738(B-208Z),,Landed9:35 PM
+9:25 PM,CZ3547,Guangzhou(CAN),China Southern Airlines,B77W(B-7183),,Landed8:51 PM
+9:25 PM,MF1609,Guangzhou(CAN),Xiamen Air,B77W(B-7183),,Landed8:51 PM
+9:25 PM,MU3214,Guangzhou(CAN),China Eastern Airlines,B77W(B-7183),,Landed8:51 PM
+9:25 PM,HO1250,Chongqing(CKG),Juneyao Air,A321(B-8315),,Landed9:01 PM
+9:25 PM,3U2242,Chongqing(CKG),Sichuan Airlines,A321(B-8315),,Landed9:01 PM
+9:25 PM,MU4760,Chongqing(CKG),China Eastern Airlines,A321(B-8315),,Landed9:01 PM
+9:25 PM,MU9725,Dali(DLU),China Eastern Airlines (Yunnan Peacock Livery),B737(B-6141),,Landed9:17 PM
+9:25 PM,HO3788,Dali(DLU),Juneyao Airlines,B737(B-6141),,Landed9:17 PM
+9:40 PM,CA1857,Beijing(PEK),Air China,B744(B-2445),,Landed9:18 PM
+9:40 PM,FM9362,Changsha(CSX),Shanghai Airlines,B738(B-5523),,Landed9:49 PM
+9:40 PM,MU5434,Chongqing(CKG),China Eastern Airlines,A20N(B-303F),,Landed9:37 PM
+9:45 PM,MU9626,Xi'an(XIY),China Eastern Airlines,319,,Unknown
+9:45 PM,FM9316,Guangzhou(CAN),Shanghai Airlines,B738(B-1453),,Landed9:31 PM
+9:45 PM,MU2336,Xi'an(XIY),China Eastern Airlines,A321(B-8561),,Landed10:00 PM
+9:50 PM,SC4687,Qingdao(TAO),Shandong Airlines,B738(B-6985),,Landed9:30 PM
+9:50 PM,FM9216,Zhuhai(ZUH),Shanghai Airlines,B738(B-1448),,Landed9:55 PM
+9:50 PM,MU5356,Shenzhen(SZX),China Eastern Airlines,A333(B-5969),,Landed9:38 PM
+9:55 PM,MU5440,Tianjin(TSN),China Eastern Airlines,A320(B-6399),,Landed9:32 PM
+10:00 PM,FM9128,Hohhot(HET),Shanghai Airlines,B738(B-5831),,Landed9:51 PM
+10:00 PM,FM9502,Jieyang(SWA),Shanghai Airlines,B738(B-7633),,Landed10:28 PM
+10:05 PM,FM9262,Xiamen(XMN),Shanghai Airlines,B738(B-1967),,Landed9:49 PM
+10:05 PM,ZH9519,Jingdezhen(JDZ),Shenzhen Airlines (Summer Universiade Livery),A320(B-6749),,Landed9:43 PM
+10:10 PM,MU2470,Wuhan(WUH),China Eastern Airlines,B738(B-1965),,Landed9:50 PM
+10:15 PM,MU5126,Beijing(PEK),China Eastern Airlines(Disneyland Shanghai Livery),A333(B-5976),,Landed10:03 PM
+10:15 PM,FM9204,Xi'an(XIY),Shanghai Airlines,B738(B-1949),,Landed10:02 PM
+10:20 PM,HO1122,Kunming(KMG),Juneyao Air,A320(B-6640),,Landed11:47 PM
+10:25 PM,CZ3595,Guangzhou(CAN),China Southern Airlines,B77W(B-2009),,Landed10:04 PM
+10:25 PM,CZ6997,Urumqi(URC),China Southern Airlines,B738(B-5767),,Landed10:54 PM
+10:25 PM,FM9372,Yancheng(YNZ),Shanghai Airlines,B738(B-5691),,Landed10:14 PM
+10:30 PM,FM9404,Chengdu(CTU),Shanghai Airlines,B738(B-5692),,Landed10:31 PM
+10:30 PM,MU2056,Macau(MFM),China Eastern Airlines,A321(B-2420),,Landed10:10 PM
+10:30 PM,MU5550,Linyi(LYI),China Eastern Airlines,A20N(B-300R),,Landed10:16 PM
+10:35 PM,MF8318,Shenzhen(SZX),Xiamen Air,B738(B-5301),,Landed10:23 PM
+10:35 PM,9C8950,Shenzhen(SZX),Spring Airlines,A320(B-1657),,Landed10:18 PM
+10:40 PM,CA1589,Beijing(PEK),Air China,B77W(B-2086),,Landed10:19 PM
+10:40 PM,FM9424,Chongqing(CKG),Shanghai Airlines,B738(B-5730),,Landed10:24 PM
+10:40 PM,MU2993,Ganzhou(KOW),China Eastern Airlines,A321(B-6330),,Landed10:37 PM
+10:45 PM,FM9186,Shenyang(SHE),Shanghai Airlines,B738(B-5461),,Landed10:08 PM
+10:45 PM,HO1156,Shenzhen(SZX),Juneyao Air (Chinese Peony Livery),B789(B-209R),,Landed10:54 PM
+10:45 PM,MF8517,Xiamen(XMN),Xiamen Air,B738(B-5532),,Landed10:39 PM
+10:45 PM,MU5664,Xiamen(XMN),China Eastern Airlines,A20N(B-307Z),,Landed11:07 PM
+10:45 PM,MU5220,Zhuhai(ZUH),China Eastern Airlines,B738(B-1535),,Landed10:40 PM
+10:50 PM,CZ3589,Shenzhen(SZX),China Southern Airlines,320,,Unknown
+10:50 PM,FM9468,Zhengzhou(CGO),Shanghai Airlines,B738(B-7637),,Landed10:41 PM
+10:50 PM,9C8846,Xi'an(XIY),Spring Airlines,A20N(B-307N),,Landed10:30 PM
+10:55 PM,HU7884,Urumqi(URC),Hainan Airlines,B738(B-1735),,Landed11:28 PM
+10:55 PM,9C8996,Chongqing(CKG),Spring Airlines,A320(B-6751),,Landed10:55 PM
+11:00 PM,FM9380,Shenzhen(SZX),Shanghai Airlines,B738(B-7863),,Landed10:47 PM
+11:00 PM,HO1276,Haikou(HAK),Juneyao Air,A320(B-6965),,Landed10:33 PM
+11:00 PM,MU5316,Guangzhou(CAN),China Eastern Airlines,A332(B-5936),,Landed10:38 PM
+11:10 PM,FM9364,Wuhan(WUH),Shanghai Airlines,B737(B-5801),,Landed11:24 PM
+11:10 PM,MU5644,Tianjin(TSN),China Eastern Airlines,A20N(B-305Y),,Landed11:04 PM
+11:15 PM,FM9522,Sanya(SYX),Shanghai Airlines,B738(B-1740),,Landed11:30 PM
+11:15 PM,MU5813,Kunming(KMG),China Eastern Airlines (Yunnan Peacock Livery),B738(B-1702),,Landed11:24 PM
+11:15 PM,MU5960,Kunming(KMG),China Eastern Airlines,737,,Unknown
+11:20 PM,HO1126,Changsha(CSX),Juneyao Air,A321(B-1857),,Landed12:28 AM
+11:20 PM,MU4712,Changsha(CSX),China Eastern Airlines,A321(B-1857),,Landed12:28 AM
+11:20 PM,ZH5034,Changsha(CSX),Shenzhen Airlines,A321(B-1857),,Landed12:28 AM
+11:20 PM,MU5128,Beijing(PEK),China Eastern Airlines,B77W(B-7868),,Landed11:00 PM
+11:20 PM,MU5210,Jieyang(SWA),Shanghai Airlines,B738(B-1335),,Landed11:33 PM
+11:20 PM,CZ9296,Jieyang(SWA),China Southern Airlines,B738(B-1335),,Landed11:33 PM
+11:20 PM,HO3780,Jieyang(SWA),Juneyao Airlines,B738(B-1335),,Landed11:33 PM
+11:25 PM,MU5634,Urumqi(URC),China Eastern Airlines,A20N(B-1076),,Landed11:50 PM
+11:25 PM,9C8886,Guiyang(KWE),Spring Airlines,A320(B-9940),,Landed11:54 PM
+11:25 PM,9C8896,Zhanjiang(ZHA),Spring Airlines,A320(B-6562),,Landed11:21 PM
+11:30 PM,MU5582,Weihai(WEH),China Eastern Airlines,A321(B-2419),,Landed11:08 PM
+11:30 PM,CZ9326,Weihai(WEH),China Southern Airlines,A321(B-2419),,Landed11:08 PM
+11:30 PM,HO3772,Weihai(WEH),Juneyao Airlines,A321(B-2419),,Landed11:08 PM
+11:30 PM,FM9396,Changsha(CSX),Shanghai Airlines,B738(B-5833),,Landed11:45 PM
+11:30 PM,MU9396,Changsha(CSX),China Eastern Airlines,B738(B-5833),,Landed11:45 PM
+11:30 PM,9C8766,Shijiazhuang(SJW),Spring Airlines,A320(B-8435),,Landed11:12 PM
+11:35 PM,HU7603,Beijing(PEK),Hainan Airlines,B738(B-5579),,Landed11:21 PM
+11:35 PM,9C8804,Xiamen(XMN),Spring Airlines,A320(B-1656),,Landed11:21 PM
+11:35 PM,9C8866,Urumqi(URC),Spring Airlines,A20N(B-308V),,Landed11:58 PM
+11:40 PM,FM9550,Chengdu(CTU),China Eastern Airlines,A333(B-6506),,Landed12:29 AM
+11:40 PM,MU9550,Chengdu(CTU),China Eastern Airlines,A333(B-6506),,Landed12:29 AM
+11:40 PM,HO1134,Taiyuan(TYN),Juneyao Air,A321(B-8458),,Landed12:09 AM
+11:40 PM,CA3206,Taiyuan(TYN),Air China,A321(B-8458),,Landed12:09 AM
+11:40 PM,MU4686,Taiyuan(TYN),China Eastern Airlines,A321(B-8458),,Landed12:09 AM
+11:40 PM,MU5690,Hohhot(HET),China Eastern Airlines,A333(B-5953),,Landed11:45 PM
+11:45 PM,FM9426,Chongqing(CKG),Shanghai Airlines,B738(B-5550),,Landed12:06 AM
+11:45 PM,MU9426,Chongqing(CKG),China Eastern Airlines,B738(B-5550),,Landed12:06 AM
+11:45 PM,MU5158,Beijing(PEK),Shanghai Airlines,B738(B-5610),,Landed11:33 PM
+11:45 PM,HO3608,Beijing(PEK),Juneyao Airlines,B738(B-5610),,Landed11:33 PM
+11:45 PM,MF3018,Beijing(PEK),Xiamen Air,B738(B-5610),,Landed11:33 PM
+11:45 PM,9C8932,Guangzhou(CAN),Spring Airlines,A320(B-1026),,Landed11:50 PM
+11:50 PM,FM9320,Guangzhou(CAN),Shanghai Airlines,A333(B-6096),,Landed11:36 PM
+11:50 PM,MU9320,Guangzhou(CAN),China Eastern Airlines,A333(B-6096),,Landed11:36 PM
+11:50 PM,HO1270,Chizhou(JUH),Juneyao Air,A320(B-6670),,Landed11:16 PM
+11:50 PM,MU4830,Chizhou(JUH),China Eastern Airlines,A320(B-6670),,Landed11:16 PM
+11:50 PM,HO1128,Sanya(SYX),Juneyao Air,A321(B-8955),,Landed11:42 PM
+11:50 PM,CA3242,Sanya(SYX),Air China,A321(B-8955),,Landed11:42 PM
+11:50 PM,MU4728,Sanya(SYX),China Eastern Airlines,A321(B-8955),,Landed11:42 PM
+11:50 PM,ZH5036,Sanya(SYX),Shenzhen Airlines,A321(B-8955),,Landed11:42 PM
+11:50 PM,HO1194,Xi'an(XIY),Juneyao Air,B789(B-20D1),,Landed11:38 PM
+11:50 PM,3U2248,Xi'an(XIY),Sichuan Airlines,B789(B-20D1),,Landed11:38 PM
+11:50 PM,CA3258,Xi'an(XIY),Air China,B789(B-20D1),,Landed11:38 PM
+11:50 PM,MU4742,Xi'an(XIY),China Eastern Airlines,B789(B-20D1),,Landed11:38 PM
+11:50 PM,MU7786,Xinyang(XAI),China Eastern Airlines (Duffy Friendship Express),B738(B-1316),,Landed11:17 PM
+11:50 PM,9C8738,Dongying(DOY),Spring Airlines,A320(B-8591),,Landed11:36 PM
+11:55 PM,HO1080,Zunyi(WMT),Juneyao Air,A320(B-6861),,Landed12:47 AM
+11:55 PM,MU5160,Beijing(PEK),China Eastern Airlines,A333(B-8971),,Landed12:03 AM
+11:55 PM,MF3020,Beijing(PEK),Xiamen Air,A333(B-8971),,Landed12:03 AM
+11:55 PM,MU5362,Shenzhen(SZX),China Eastern Airlines,A333(B-1041),,Landed11:43 PM
+11:55 PM,CZ9309,Shenzhen(SZX),China Southern Airlines,A333(B-1041),,Landed11:43 PM
+11:55 PM,HO3672,Shenzhen(SZX),Juneyao Airlines,A333(B-1041),,Landed11:43 PM
+11:55 PM,9C8524,Enshi(ENH),Spring Airlines,A320(B-8347),,Landed12:55 AM
+11:55 PM,9C8830,Changde(CGD),Spring Airlines,A320(B-6708),,Landed12:54 AM
+11:55 PM,9C8854,Qingdao(TAO),Spring Airlines,A320(B-8817),,Landed11:52 PM
